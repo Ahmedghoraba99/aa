@@ -1,2 +1,1 @@
-my name is ahmed line 1
-yara name is not yara
+my name is ahmed line 1 
